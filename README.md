@@ -19,12 +19,12 @@ Evaluated model performance using metrics such as Mean Squared Error (MSE) and R
 
 <h2>Skills </h2>
 
-- <b>Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)</b> 
-- <b>Data preprocessing and feature selection</b>
-- <b>XGBoost Regression modeling</b>
-- <b>Model evaluation and validation</b>
-- <b>Data visualization and storytelling</b>
+- </b>Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)</b> 
+- </b>Data preprocessing and feature selection</b>
+- </b>XGBoost Regression modeling</b>
+- </b>Model evaluation and validation</b>
+- </b>Data visualization and storytelling</b>
 
 <h2>Outcomes </h2>
 
-- <b>Developed a robust regression model capable of predicting housing prices based on key attributes. The final model demonstrated strong predictive performance and can be further fine-tuned for deployment in real estate analytics or housing market research scenarios.</b> 
+- </b>Developed a robust regression model capable of predicting housing prices based on key attributes. The final model demonstrated strong predictive performance and can be further fine-tuned for deployment in real estate analytics or housing market research scenarios.</b> 
